@@ -6,8 +6,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    aspect-ratio: 2469 / 1234;
-    background-image: url("bgImage.png"); 
+    aspect-ratio: 1920 / 1080;
+    background-image: url("bgImage.jpg"); 
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover; 
@@ -15,8 +15,7 @@ body {
 .video-container {
     overflow: hidden;
     position: relative;
-    width: 45.7%;
-    margin-top: 2.4%;
+    width: 44%;
 }
 
 .video-container::after {
